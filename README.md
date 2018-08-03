@@ -1,6 +1,5 @@
-# My-React-Library
-Resources for developing in React
-
+# React Reference
+Articles that can be a good reference for developing with React and eventually Redux.
 
 ## Handling State
 
