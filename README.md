@@ -9,3 +9,8 @@ Articles that can be a good reference for developing with React and eventually R
 ## Refs
 
 - [When to use Refs](https://reactjs.org/docs/refs-and-the-dom.html)
+
+
+## Google Maps & Places for React
+
+- [Places Module](https://github.com/hibiken/react-places-autocomplete)
