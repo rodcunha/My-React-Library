@@ -1,9 +1,13 @@
 # React Reference
 Articles that can be a good reference for developing with React and eventually Redux.
 
+## Interesting Articles
+- [Making Google Maps work with React](https://www.klaasnotfound.com/2016/11/06/making-google-maps-work-with-react/)
+
 ## Handling State
 
 - [Lifting State Up](https://reactjs.org/docs/lifting-state-up.html)
+- [Building a Blog App w/ React](https://www.sitepoint.com/building-a-react-universal-blog-app-a-step-by-step-guide/)
 
 
 ## Refs
